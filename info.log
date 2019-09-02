@@ -454,3 +454,4 @@
 {"message":"Unauthorized request to path: /api/folders","level":"error"}
 {"message":"Unauthorized request to path: /api/notes/5","level":"error"}
 {"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
